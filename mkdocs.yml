@@ -3,16 +3,6 @@ repo_url: "https://github.com/Sydney-Informatics-Hub/nf4hpc-materials"
 repo_name: "Sydney-Informatics-Hub/nf4hpc-materials"
 
 nav:
-  # INSTRUCTOR_START
-  - Home: index.md
-  - Instructor guides:
-      - Training logistics: instructor/logistics.md
-      - Training infrastructure: instructor/environment.md
-      - Training materials:
-        - Materials guide: instructor/materials.md
-        - Part 1: instructor/pt1-guide.md
-        - Part 2: instructor/pt2-guide.md
-  # INSTRUCTOR_END
   - Example workshop materials:
       - Home: workshop/index.md
       - Setup: workshop/setup.md
